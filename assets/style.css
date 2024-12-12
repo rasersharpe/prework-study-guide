@@ -20,7 +20,8 @@ header, footer {
 }
 
 /* may want to backspace the h2 selector
-into line 18 for cleanliness. see if it works in testing. DONE */
+into line 18 for cleanliness. see if it works in testing. DONE and
+split h2 off */
 h1 {
     text-align: center;
     color: rgb(212, 212, 212);
